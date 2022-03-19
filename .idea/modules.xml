@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JDND.iml" filepath="$PROJECT_DIR$/.idea/JDND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/c4 - testing/starter code/Testing.iml" filepath="$PROJECT_DIR$/exercises/c4 - testing/starter code/Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/P04-eCommerce Application/starter_code/auth-course.iml" filepath="$PROJECT_DIR$/projects/P04-eCommerce Application/starter_code/auth-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/boogle-maps/boogle-maps.iml" filepath="$PROJECT_DIR$/projects/P02-VehiclesAPI/boogle-maps/boogle-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/P01-Chatroom/starter_code/chatroom-starter.iml" filepath="$PROJECT_DIR$/projects/P01-Chatroom/starter_code/chatroom-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/c3/c3_l1_exercise1/exercise1.iml" filepath="$PROJECT_DIR$/exercises/c3/c3_l1_exercise1/exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise10/exercise10.iml" filepath="$PROJECT_DIR$/exercises/c3/c3_l4_exercise10/exercise10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise13/exercise10 (1).iml" filepath="$PROJECT_DIR$/exercises/c3/c3_l4_exercise13/exercise10 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise4/exercise4.iml" filepath="$PROJECT_DIR$/exercises/c3/c3_l4_exercise4/exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise6/exercise4 (1).iml" filepath="$PROJECT_DIR$/exercises/c3/c3_l4_exercise6/exercise4 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-freemarker/freemarker.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-freemarker/freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/c2/c2_l2_exercise1/lesson2.iml" filepath="$PROJECT_DIR$/exercises/c2/c2_l2_exercise1/lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/pricing-service/pricing-service.iml" filepath="$PROJECT_DIR$/projects/P02-VehiclesAPI/pricing-service/pricing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-exception/spring-boot-exception.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-exception/spring-boot-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-logging/spring-boot-logging.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-logging/spring-boot-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-thymeleaf/spring-boot-thymeleaf.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-thymeleaf/spring-boot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-unit-test/spring-boot-unit-test.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-unit-test/spring-boot-unit-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-validation/spring-boot-validation.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-validation/spring-boot-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-websocket/spring-boot-websocket.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-websocket/spring-boot-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/c1/spring-boot-websocket-demo/spring-boot-websocket-demo.iml" filepath="$PROJECT_DIR$/demos/c1/spring-boot-websocket-demo/spring-boot-websocket-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/vehicles-api/vehicles-api.iml" filepath="$PROJECT_DIR$/projects/P02-VehiclesAPI/vehicles-api/vehicles-api.iml" />
+    </modules>
+  </component>
+</project>
