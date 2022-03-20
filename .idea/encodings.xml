@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-exception/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-freemarker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-freemarker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-thymeleaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-unit-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-unit-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-validation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-websocket-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-websocket-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/c1/spring-boot-websocket/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/c2/c2_l2_exercise1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/c2/c2_l2_exercise1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise10/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise13/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/c3/c3_l4_exercise13/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercises/c4 - testing/starter code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/P01-Chatroom/starter_code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/boogle-maps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/boogle-maps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/pricing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/pricing-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/vehicles-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/P02-VehiclesAPI/vehicles-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projects/P04-eCommerce Application/starter_code/src/main/java" charset="UTF-8" />
   </component>
 </project>

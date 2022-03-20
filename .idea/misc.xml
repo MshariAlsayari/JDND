@@ -3,8 +3,26 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/projects/P04-eCommerce Application/starter_code/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-unit-test/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/c1/spring-boot-websocket-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/c2/c2_l2_exercise1/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/c4 - testing/starter code/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/c3/c3_l1_exercise1/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/c3/c3_l4_exercise4/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/c3/c3_l4_exercise6/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/c3/c3_l4_exercise10/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/c3/c3_l4_exercise13/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/P01-Chatroom/starter_code/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/P04-eCommerce Application/starter_code/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/P02-VehiclesAPI/boogle-maps/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/P02-VehiclesAPI/pricing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/P02-VehiclesAPI/vehicles-api/pom.xml" />
       </list>
     </option>
   </component>
